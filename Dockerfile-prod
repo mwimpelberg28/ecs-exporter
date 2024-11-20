@@ -1,4 +1,4 @@
-FROM mwimpelberg/ecs-exporter_base:latest
+FROM slok/ecs-exporter_base:latest
 
 USER root
 
